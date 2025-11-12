@@ -1,0 +1,11 @@
+BEGIN{
+	print "Line starts"
+	print "------------"
+}
+NR!=1{
+	print $2;
+	c=c+1;
+}
+END{
+	print "Number of line is" c;
+}
