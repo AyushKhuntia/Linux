@@ -1,5 +1,5 @@
 eno	ename	easl	eaddr
-12	Ayush Khuntia	1000	Hydrabad
+12	Ayush	1000	Hydrabad
 13	Ayush	2000	Hydrabad
 14	Ayush	500	Hydrabad
 15	Ayush	100	Hydrabad
